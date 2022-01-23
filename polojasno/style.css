@@ -72,7 +72,7 @@
  /* Typography Scale: https://www.modularscale.com/?1&rem&1.2 */
 
  html {
-   font-size: 14px;
+   font-size: 13px;
    /* 1rem = 16px */
    scroll-behavior: smooth;
  }
